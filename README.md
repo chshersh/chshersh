@@ -18,7 +18,7 @@ I do all kinds of work to help people get started with FP as easier as possible:
 * [📚 Blog](https://kodimensional.dev/#blog) — articles explaining idiomatic ways to solve problems using FP and Haskell
 * [:octocat: OSS](https://github.com/chshersh) — my projects, courses, frameworks, dev tools
 
-I do OSS for many years and I'd like to highlight a few notable projects:
+OSS has been a big part of my educator and mentor journey for many years and I'd like to highlight a few notable projects:
 
 <table>
   <thead align="center">
