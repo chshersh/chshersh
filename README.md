@@ -8,7 +8,7 @@
   <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I'm a Functional Programming enthusiast and Senior Software Engineer at [Feeld🧡](https://feeld.co/). I've been using Haskell for the last 7 years in various industries including dating, healthcare, fintech, blockchain. I'm making FP and Haskell more accessible to people with diverse backgrounds by creating educational resources and mentoring newcomers.
+I'm a Functional Programming enthusiast and Senior Software Engineer at [Feeld🧡](https://feeld.co/). I've been using Haskell for the last 7 years in various industries including healthcare, education, dating, fintech, blockchain. I'm making FP and Haskell more accessible to people with diverse backgrounds by creating educational resources and mentoring newcomers.
 
 ### My work
 
