@@ -38,14 +38,21 @@ OSS has been a big part of my educator and mentor journey for many years and I'd
       <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/chshersh/iris"><b>🌈 Iris</b></a> — a Haskell CLI framework with the goal to mentor people in OSS and Haskell</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
+      <td><a href="https://github.com/chshersh/dr-cabal"><b>📊 dr-cabal</b></a> — Haskell dependencies compilation profile</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/chshersh/ghc-plugin-non-empty"><b>🧪 ghc-plugin-non-empty</b></a> — a Haskell compiler plugin for writing type-safe programs easier</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
