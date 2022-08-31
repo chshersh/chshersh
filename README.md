@@ -46,6 +46,13 @@ OSS has been a big part of my educator and mentor journey for many years and I'd
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/chshersh/tool-sync"><b>🧰 tool-sync</b></a> — a CLI tool to download other tools from GitHub Releases</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/chshersh/dr-cabal"><b>📊 dr-cabal</b></a> — Haskell dependencies compilation profile</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
@@ -68,6 +75,7 @@ If you like my work and want to support me, you can [sponsor me on GitHub 💖](
 
 <p>
   <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
