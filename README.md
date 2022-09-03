@@ -60,6 +60,13 @@ OSS has been a big part of my educator and mentor journey for many years and I'd
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/chshersh/sauron"><b>👁 sauron</b></a> — a CLI tool to get top tweets of an account</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/chshersh/ghc-plugin-non-empty"><b>🧪 ghc-plugin-non-empty</b></a> — a Haskell compiler plugin for writing type-safe programs easier</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
