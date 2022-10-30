@@ -1,7 +1,7 @@
 ## Hi there, I'm Dmitrii (he/him) 👋
 
 <p align="center">
-  <a href="https://kodimensional.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="https://kodimensional.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="https://youtube.com/c/chshersh" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=chshersh&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chshersh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
