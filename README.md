@@ -8,7 +8,15 @@
   <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I'm a Functional Programming enthusiast and Senior Software Engineer at [Feeld🧡](https://feeld.co/). I've been using Haskell for the last 7 years in various industries including healthcare, education, dating, fintech, blockchain. I'm making FP and Haskell more accessible to people with diverse backgrounds by creating educational resources and mentoring newcomers.
+I'm a Functional Programming enthusiast and Senior Software Engineer at [Feeld🧡](https://feeld.co/). I've been using Haskell for the last 7 years in various industries including healthcare, education, dating, fintech, blockchain. I'm making FP and Haskell more accessible to people with diverse backgrounds by creating educational resources and mentoring newcomers. I love learning new technologies and developing new skills, so I'm currently in the process of learning Rust and building cool OSS with this language.
+
+I have [**my own consultancy**](https://kodimensional.dev/#consultancy) so don't hesitate to reach out! Read more about my latest hot offer:
+
+* [🌱 Haskell Revitalisation](https://kodimensional.dev/haskell-revitalisation)
+
+<hr>
+
+Also, [subscribe to my mailing list 📥](https://kodimensional.dev/#subscribe) if you want to be amongh the first people to hear about announcements of my books, courses, projects and much more!
 
 ### My work
 
@@ -77,6 +85,11 @@ OSS has been a big part of my educator and mentor journey for many years and I'd
 </table>
 
 If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/chshersh) <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/chshersh" /></a>
+
+You can also find me on other social medias:
+
+* [🐝 CoHost: @chshersh](https://cohost.org/chshersh)
+* [🐘 Mastodon: @chshersh@functional.cafe](https://functional.cafe/web/@chshersh)
 
 ### My toolbox
 
