@@ -24,7 +24,7 @@ I love learning new technologies and developing new skills, so I'm currently in 
 
 <hr>
 
-[Subscribe to my mailing list 📥](https://kodimensional.dev/#subscribe) if you want to be among the first people to hear about announcements of my books, courses, projects and much more!
+[Subscribe to my mailing list 📥](https://chshersh.com/#subscribe) if you want to be among the first people to hear about announcements of my books, courses, projects and much more!
 
 ### My work
 
