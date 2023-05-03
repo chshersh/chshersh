@@ -8,21 +8,29 @@
   <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I'm a Functional Programming enthusiast and Senior Software Engineer at [Feeld🧡](https://feeld.co/). I've been using Haskell for the last 7 years in various industries including healthcare, education, dating, fintech, blockchain. I'm making FP and Haskell more accessible to people with diverse backgrounds by creating educational resources and mentoring newcomers. I love learning new technologies and developing new skills, so I'm currently in the process of learning Rust and building cool OSS with this language.
+I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using OCaml 🐪.
 
-I have [**my own consultancy**](https://kodimensional.dev/#consultancy) so don't hesitate to reach out! Read more about my latest hot offer:
+For the last 8 years, I've been using Haskell in various industries including healthcare, education, dating, fintech, blockchain.
+I'm a member of [the Haskell Core Libraries Committee][clc] since 2023.
+I mentor FP newcomers in my [popular free Haskell course][haskell-course].
+I'm an active opensource maintainer and contributor, blog writer, and content creator.
 
-* [🌱 Haskell Revitalisation](https://kodimensional.dev/haskell-revitalisation)
+My passion is making Functional Programming and Haskell more accessible to people with diverse backgrounds.
+
+I love learning new technologies and developing new skills, so I'm currently in the process of exploring OCaml, Haskell, Rust, Elm, and Kotlin.
+
+[clc]: https://github.com/haskell/core-libraries-committee
+[haskell-course]: https://github.com/haskell-beginners-2022/course-plan
 
 <hr>
 
-Also, [subscribe to my mailing list 📥](https://kodimensional.dev/#subscribe) if you want to be amongh the first people to hear about announcements of my books, courses, projects and much more!
+[Subscribe to my mailing list 📥](https://kodimensional.dev/#subscribe) if you want to be among the first people to hear about announcements of my books, courses, projects and much more!
 
 ### My work
 
 I do all kinds of work to help people get started with FP as easier as possible:
 
-* [🎥 YouTube](https://youtube.com/c/chshersh) — FP and Haskell courses
+* [🎥 YouTube](https://youtube.com/c/chshersh) — FP, Haskell, tech
 * [📚 Blog](https://kodimensional.dev/#blog) — articles explaining idiomatic ways to solve problems using FP and Haskell
 * [:octocat: OSS](https://github.com/chshersh) — my projects, courses, frameworks, dev tools
 
@@ -54,6 +62,13 @@ OSS has been a big part of my educator and mentor journey for many years and I'd
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/chshersh/zbg"><b>✨ zbg</b></a> — Zero Bullshit Git</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/chshersh/tool-sync"><b>🧰 tool-sync</b></a> — a CLI tool to download other tools from GitHub Releases</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
@@ -68,18 +83,18 @@ OSS has been a big part of my educator and mentor journey for many years and I'd
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/chshersh/sauron"><b>👁 sauron</b></a> — a CLI tool to get top tweets of an account</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/chshersh/ghc-plugin-non-empty"><b>🧪 ghc-plugin-non-empty</b></a> — a Haskell compiler plugin for writing type-safe programs easier</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/chshersh/sauron"><b>👁 sauron</b></a> — a CLI tool to get top tweets of an account</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -88,12 +103,14 @@ If you like my work and want to support me, you can [sponsor me on GitHub 💖](
 
 You can also find me on other social medias:
 
+* [⛅️ BlueSky: @chshersh.bsky.social](https://bsky.app/profile/chshersh.bsky.social)
 * [🐘 Mastodon: @chshersh@functional.cafe](https://functional.cafe/web/@chshersh)
 * [🐝 CoHost: @chshersh](https://cohost.org/chshersh)
 
 ### My toolbox
 
 <p>
+  <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" />
   <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Dhall" src="https://custom-icon-badges.demolab.com/badge/-Dhall-dfafff?style=flat-square&logo=dhall&logoColor=white" />
