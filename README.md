@@ -10,14 +10,14 @@
 
 I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using OCaml 🐪.
 
-For the last 8 years, I've been using Haskell in various industries including healthcare, education, dating, fintech, blockchain.
-I'm a member of [the Haskell Core Libraries Committee][clc] since 2023.
-I mentor FP newcomers in my [popular free Haskell course][haskell-course].
-I'm an active opensource maintainer and contributor, blog writer, and content creator.
+For the last 8 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript) in various industries including healthcare, education, dating, fintech, and blockchain.
+
+I was a member of [the Haskell Core Libraries Committee][clc] in 2023.
 
 My passion is making Functional Programming and Haskell more accessible to people with diverse backgrounds.
+Check out my free [Haskell Course for complete beginners][haskell-course]!
 
-I love learning new technologies and developing new skills, so I'm currently in the process of exploring OCaml, Haskell, Rust, Elm, and Kotlin.
+I love learning new technologies and developing new skills, so I'm currently in the process of exploring OCaml, Rust, Elm, and Kotlin.
 
 [clc]: https://github.com/haskell/core-libraries-committee
 [haskell-course]: https://github.com/haskell-beginners-2022/course-plan
@@ -31,7 +31,7 @@ I love learning new technologies and developing new skills, so I'm currently in 
 I do all kinds of work to help people get started with FP as easier as possible:
 
 * [🎥 YouTube](https://youtube.com/c/chshersh) — FP, Haskell, tech
-* [📚 Blog](https://kodimensional.dev/#blog) — articles explaining idiomatic ways to solve problems using FP and Haskell
+* [📚 Blog](https://chshersh.com/#blog) — articles explaining idiomatic ways to solve problems using FP and Haskell
 * [:octocat: OSS](https://github.com/chshersh) — my projects, courses, frameworks, dev tools
 
 OSS has been a big part of my educator and mentor journey for many years and I'd like to highlight a few notable projects:
