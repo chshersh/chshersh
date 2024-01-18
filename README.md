@@ -14,7 +14,7 @@ For the last 8 years, I've been using Functional Programming (OCaml, Haskell, El
 
 I was a member of [the Haskell Core Libraries Committee][clc] in 2023.
 
-My passion is making Functional Programming and Haskell more accessible to people with diverse backgrounds.
+My passion is making Functional Programming and OCaml more accessible to people with diverse backgrounds.
 Check out my free [Haskell Course for complete beginners][haskell-course]!
 
 I love learning new technologies and developing new skills, so I'm currently in the process of exploring OCaml, Rust, Elm, and Kotlin.
