@@ -105,7 +105,6 @@ You can also find me on other social medias:
 
 * [⛅️ BlueSky: @chshersh.bsky.social](https://bsky.app/profile/chshersh.bsky.social)
 * [🐘 Mastodon: @chshersh@functional.cafe](https://functional.cafe/web/@chshersh)
-* [🐝 CoHost: @chshersh](https://cohost.org/chshersh)
 
 ### My toolbox
 
