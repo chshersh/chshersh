@@ -8,9 +8,9 @@
   <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using OCaml 🐪.
+I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using OCaml 🐫.
 
-For the last 8 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript) in various industries including healthcare, education, dating, fintech, and blockchain.
+For the last 9 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript) in various industries including healthcare, education, dating, fintech, and blockchain.
 
 I was a member of [the Haskell Core Libraries Committee][clc] in 2023.
 
@@ -30,7 +30,7 @@ I love learning new technologies and developing new skills, so I'm currently in 
 
 I do all kinds of work to help people get started with FP as easier as possible:
 
-* [🎥 YouTube](https://youtube.com/c/chshersh) — FP, Haskell, tech
+* [🎥 YouTube](https://youtube.com/c/chshersh) — FP, OCaml, Haskell, tech
 * [📚 Blog](https://chshersh.com/#blog) — articles explaining idiomatic ways to solve problems using FP and Haskell
 * [:octocat: OSS](https://github.com/chshersh) — my projects, courses, frameworks, dev tools
 
