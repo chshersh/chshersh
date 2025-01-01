@@ -87,7 +87,7 @@ If you like my work and want to support me, you can [sponsor me on GitHub 💖](
 You can also find me on other social media:
 
 * [🔊 𝕏](https://x.com/ChShersh)
-* [⛅️ BlueSky: @chshersh.bsky.social](https://bsky.app/profile/chshersh.bsky.social)
+* [⛅️ BlueSky: @chshersh.com](https://bsky.app/profile/chshersh.com)
 * [🐘 Mastodon: @chshersh@functional.cafe](https://functional.cafe/web/@chshersh)
 
 ### My toolbox
