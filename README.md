@@ -8,9 +8,9 @@
   <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using OCaml 🐫.
+I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using OCaml 🐫. All opinions are my own.
 
-For the last 9 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript) in various industries including healthcare, education, dating, fintech, and blockchain.
+For the last 10 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript, Nix) in various industries including healthcare, education, dating, fintech, and blockchain.
 
 I was a member of [the Haskell Core Libraries Committee][clc] in 2023.
 
@@ -31,15 +31,15 @@ I love learning new technologies and developing new skills, so I'm currently in 
 I do all kinds of work to help people get started with FP as easier as possible:
 
 * [🎥 YouTube](https://youtube.com/c/chshersh) — FP, OCaml, Haskell, tech
-* [📚 Blog](https://chshersh.com/#blog) — articles explaining idiomatic ways to solve problems using FP and Haskell
-* [:octocat: OSS](https://github.com/chshersh) — my projects, courses, frameworks, dev tools
+* [📚 Blog](https://chshersh.com/) — articles explaining idiomatic ways to solve problems using Functional Programming in OCaml and Haskell
 
-OSS has been a big part of my educator and mentor journey for many years and I'd like to highlight a few notable projects:
+OSS has been a huge part of my educator and mentor journey for many years and I'd like to highlight a few notable projects:
 
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>📦 Projects</b></td>
+      <td><b>📜 Language</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🔀 Forks</b></td>
       <td><b>ℹ️ Issues</b></td>
@@ -49,20 +49,23 @@ OSS has been a big part of my educator and mentor journey for many years and I'd
   <tbody>
     <tr>
       <td><a href="https://github.com/haskell-beginners-2022/course-plan"><b>👩‍🏫 Haskell Beginners</b></a> — a Haskell course for complete beginners (no prior knowledge of FP needed!)</td>
+      <td><img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/chshersh/iris"><b>🌈 Iris</b></a> — a Haskell CLI framework with the goal to mentor people in OSS and Haskell</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/iris?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/chshersh/github-tui"><b>🌒 github-tui</b></a> — GitHub in your terminal</td>
+      <td><img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/chshersh/zbg"><b>✨ zbg</b></a> — Zero Bullshit Git</td>
+      <td><img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
@@ -70,39 +73,20 @@ OSS has been a big part of my educator and mentor journey for many years and I'd
     </tr>
     <tr>
       <td><a href="https://github.com/chshersh/tool-sync"><b>🧰 tool-sync</b></a> — a CLI tool to download other tools from GitHub Releases</td>
+      <td><img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/chshersh/dr-cabal"><b>📊 dr-cabal</b></a> — Haskell dependencies compilation profile</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/dr-cabal?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/chshersh/ghc-plugin-non-empty"><b>🧪 ghc-plugin-non-empty</b></a> — a Haskell compiler plugin for writing type-safe programs easier</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/ghc-plugin-non-empty?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/chshersh/sauron"><b>👁 sauron</b></a> — a CLI tool to get top tweets of an account</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/sauron?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
 If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/chshersh) <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/chshersh" /></a>
 
-You can also find me on other social medias:
+You can also find me on other social media:
 
+* [🔊 𝕏](https://x.com/ChShersh)
 * [⛅️ BlueSky: @chshersh.bsky.social](https://bsky.app/profile/chshersh.bsky.social)
 * [🐘 Mastodon: @chshersh@functional.cafe](https://functional.cafe/web/@chshersh)
 
