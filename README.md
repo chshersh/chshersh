@@ -8,23 +8,17 @@
   <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using OCaml 🐫. All opinions are my own.
+I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using C++. All opinions are my own.
 
-For the last 10 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript, Nix) in various industries including healthcare, education, dating, fintech, and blockchain.
+For the last 10 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript, Nix) in various industries including healthcare, education, dating, fintech, and blockchain. But everything has changed recently (WHAT HAPPENED???).
 
 I was a member of [the Haskell Core Libraries Committee][clc] in 2023.
 
-My passion is making Functional Programming and OCaml more accessible to people with diverse backgrounds.
+My passion is making Functional Programming more accessible to people with diverse backgrounds.
 Check out my free [Haskell Course for complete beginners][haskell-course]!
-
-I love learning new technologies and developing new skills. I'm currently exploring OCaml, Rust, Elm, and Kotlin.
 
 [clc]: https://github.com/haskell/core-libraries-committee
 [haskell-course]: https://github.com/haskell-beginners-2022/course-plan
-
-<hr>
-
-[Subscribe to my mailing list 📥](https://chshersh.com/#subscribe) if you want to be among the first people to hear about announcements of my books, courses, projects and much more!
 
 ### My work
 
@@ -93,6 +87,7 @@ You can also find me on other social media:
 ### My toolbox
 
 <p>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EE6A1A?style=flat-square&logo=ocaml&logoColor=white" />
   <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" />
